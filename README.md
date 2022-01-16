@@ -4,3 +4,8 @@
 * The inputs are labelled `M_0[31:0]` through `M_15[31:0]`.
 * The 16 byte hash value is output in clocked register `output[127:0]`.
 * The testbench code for behavioural simulation is in the file labelled `tb_bench.v`
+
+# Dual layered PCB Design for DB-15 connector
+* The schematic of the dual layered PCB for the DB-15 VGA connector was designed using Eagle.
+* 40x boards of the desgign were fabricated.
+* The schematic is contained in the folder `PCB`.
