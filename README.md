@@ -9,4 +9,4 @@
 * The schematic of the dual layered PCB for the DB-15 VGA connector was designed using Eagle.
 * 40 boards of the desgign were fabricated.
 * The schematic is contained in the folder `PCB`.
-![plot](./DB_15_connector/PCB Top.png)
+![plot](./DB_15_connector/PCB_Top.png)
