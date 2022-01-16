@@ -1,2 +1,2 @@
 # MD-5 hash algorithm on FPGA
-contains register transfer level (RTL) implementaiton of the MD5 algorithm on Verilog.
+contains verilog implementaiton and testbench of the MD5 algorithm on Verilog.
