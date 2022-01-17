@@ -3,4 +3,4 @@
 * The top module `FGHI.v` takes as input a 128 byte hexadecimal representation of a string.
 * The inputs are labelled `M_0[31:0]` through `M_15[31:0]`.
 * The 16 byte hash value is output in clocked register `output[127:0]`.
-* The testbench code for behavioural simulation is in the file labelled `tb_bench.v`
+* The testbench code for behavioural simulation is in the file labelled `tb_FGHI.v`
